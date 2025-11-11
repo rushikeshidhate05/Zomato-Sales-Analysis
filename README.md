@@ -117,10 +117,10 @@ This dashboard serves as a real-world case study for data-driven restaurant perf
 
 👨‍💻 Author
 
-Rushikesh Ishwar Idhate
-💼 Data Analyst | Power BI | SQL | Python
-📧 rushikeshidhate@gmail.com
 
-🔗 Portfolio Website
+**Rushikesh Ishwar Idhate**  
+💼 Data Analyst | Power BI | SQL | Python  
+📧 [rushikeshidhate@gmail.com](mailto:rushikeshidhate@gmail.com)  
+🔗 [Portfolio Website](https://datawithrushikesh.netlify.app/)  
+🌐 [LinkedIn](https://www.linkedin.com/in/rushikesh-idhate-449087250/)
 
-🌐 LinkedIn
